@@ -1,0 +1,59 @@
+h2{
+	font-family: garamond;
+}
+.head-image{
+	height:200px;
+	background-image: url(assets/images/immigrate.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position-y:-200px;
+}
+.head-image-content h2{
+	font-family: garamond;
+	font-size:35px;
+	left: 110px;
+	width:13%;
+	position: relative;
+	top:110px;
+	border-bottom: 1px dotted white;
+	color: white;
+}
+.after-image{
+	background-color:#2E86C1;
+}
+.after-image ul{
+	padding:0px;
+	padding-top:15px;
+}
+.after-image ul li{
+	display:inline-block;
+	padding:0px 10px;
+}
+.after-image ul li a{
+	font-size: 19px;
+	color: white;
+}
+.after-image a:hover{
+	text-decoration: none;
+}
+.immigration-main h3{
+		color:#aa0505;
+}	
+.immigration-main p{
+		font-size:18px;
+		text-align: justify;
+}	
+.immigration-button{
+	text-align: center;
+}
+.immigration-button a{
+	margin:0px 20px;
+	padding:13px 42px;
+	border-radius: 10px;
+	font-size:19px;
+	color: white;
+}
+.immigration-button a:hover{
+	text-decoration: none;
+	color: black;
+}

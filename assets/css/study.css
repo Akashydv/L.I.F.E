@@ -1,0 +1,55 @@
+.top-banner{
+	width:100%;
+	height:auto;
+	
+}
+.top-banner img{
+	width:100%;
+	height:380px;
+}
+.top-banner h2{
+	margin-top:-75px;
+	font-size:30px;
+	margin-left:100px;
+	color:#fff;
+}
+.after-image{
+background-color: #024d87;
+padding-top:20px;
+}
+.after-image ul{
+padding:0px;
+}
+.after-image ul li{
+display:inline-block;
+padding:0px;
+margin-top:20px;
+}
+.after-image ul li a{
+font-size: 19px;
+color: white;
+}
+.after-image a:hover{
+text-decoration: none;
+}
+.study-content{
+	width:100%;
+	height:auto;
+	padding-bottom:50px;
+}
+.study-content p{
+	font-size:16px;
+	text-align:justify;
+	line-height:25px;
+}
+
+.study-btn img{
+	width:50px;
+	height:50px;
+	margin-left:-50px;
+	margin-top:-5px;
+}
+.study-btn button{
+	width:200px;
+	height:50px;
+}

@@ -1,0 +1,69 @@
+h2{
+	font-family: garamond;
+}
+.head-image{
+	height:200px;
+	background-image: url(assets/images/life/head.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position-y:-18vh;
+}
+.head-image-content h2{
+	font-family: garamond;
+	font-size:40px;
+	left: 80px;
+	width:19%;
+	position: relative;
+	top:75px;
+	border-bottom: 1px dotted white;
+	color: white;
+}
+.after-image{
+	background-color:#839192;
+}
+.after-image ul{
+	padding:0px;
+	padding-top:15px;
+}
+.after-image ul li{
+	display:inline-block;
+	padding:0px 10px;
+}
+.after-image ul li a{
+	font-size: 19px;
+	color: white;
+}
+.after-image a:hover{
+	text-decoration: none;
+}
+.life{
+	padding-bottom:50px;
+}
+.life h2{
+	color: #aa0505;
+	margin:30px 0px 15px;
+}
+.life img{
+	width:100%;
+	height:40vh;
+}
+.life h3{
+	position: absolute;
+	color: white;
+	font-size:53px;
+	background-color: rgba(0,0,0,0.5);
+    top: 14vh;
+    text-align: center;
+    width: 91%;
+}
+.life h4{
+	color: #aa0505;
+	text-align: center;
+	margin:15px 0px 8px;
+	font-size:25px;
+}
+.life p{
+	text-align: center;
+	line-height:26px;
+	font-size:19px;
+}

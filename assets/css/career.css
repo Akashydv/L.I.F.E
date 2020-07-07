@@ -1,0 +1,66 @@
+h2{
+	font-family: garamond;
+}
+.head-image{
+	height:200px;
+	background-image: url(assets/images/career/head.jpg);
+	background-size: 105%;
+	background-repeat: no-repeat;
+	background-position-y:-270px;
+}
+.head-image-content h2{
+	font-family: garamond;
+	font-size:40px;
+	left: 80px;
+	width:9%;
+	position: relative;
+	top:75px;
+	border-bottom: 1px dotted white;
+	color: white;
+}
+
+.after-image{
+	background-color: #024d87;
+}
+.after-image ul{
+	padding:0px;
+	padding-top:15px;
+}
+.after-image ul li{
+	display:inline-block;
+	padding:0px 10px;
+}
+.after-image ul li a{
+	font-size: 19px;
+	color: white;
+}
+.after-image a:hover{
+	text-decoration: none;
+}
+.opening h2,p{
+	text-align: center;
+	margin:10px 0px;
+}
+.opening h3{
+	font-size:22px;
+	margin-top:8px;
+}
+.opening h4{
+	font-size:19px;
+	margin-top:8px;
+}
+.opening-box{
+	background-color: #f1f1f1;
+	margin-bottom:40px;
+	padding:25px 0px;
+}
+.opening-box:hover{
+	box-shadow: 0px 0px 56px -15px rgba(0,0,0,0.75);
+	background-color: white;
+}
+.opening-box a{
+	background-color: #34495E;
+	color: white;
+	padding:10px 25px;
+	float: right;
+}

@@ -1,0 +1,72 @@
+h2{
+	font-family: garamond;
+}
+.head-image{
+	height:200px;
+	background-image: url(assets/images/telephonic/head.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position-y:-100px;
+}
+.head-image-content h2{
+	font-family: garamond;
+	font-size:40px;
+	left: 80px;
+	width:27%;
+	position: relative;
+	top:75px;
+	border-bottom: 1px dotted white;
+	color: white;
+}
+.after-image{
+	background-color: #34495E;
+}
+.after-image ul{
+	padding:0px;
+	padding-top:15px;
+}
+.after-image ul li{
+	display:inline-block;
+	padding:0px 10px;
+}
+.after-image ul li a{
+	font-size: 19px;
+	color: white;
+}
+.after-image a:hover{
+	text-decoration: none;
+}
+.form{
+	width:100%;
+	border: 1px solid #f1f1f1; 
+	padding:25px;
+	box-shadow: 0 0 5px 5px #f1f1f1;
+	margin:50px 0px;
+	background-color:#F8F9F9;
+}
+.form-group label{
+	font-weight:500;
+}
+.form h2{
+	color: #aa0505;
+	text-align: center;
+	font-family: calibri;
+	font-size:35px;
+	margin-bottom:20px;
+}
+.btn-banner{
+	background: #024d87;
+    color: #000;
+    border: 0;
+	color:#fff;
+	width:130px;
+	height:40px;
+	font-size:26px;
+}
+.btn-banner:hover{
+	background-color:black;
+	color:#fff;
+}
+.form-group{
+	margin:10px 0px;
+}

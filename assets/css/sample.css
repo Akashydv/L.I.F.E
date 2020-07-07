@@ -1,0 +1,17 @@
+#header1 {
+    background: url("https://www.random.org/analysis/randbitmap-rdo.png");/*Random image I grabbed*/
+    
+    
+    background-size: cover;
+ 
+  
+}
+
+h1 {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding-top: 10px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+  padding-right: 20px;
+}

@@ -1,0 +1,164 @@
+h2{
+	font-family: garamond;
+}
+.head-image{
+	height:200px;
+	background-image: url(assets/images/about/head.jpg);
+	background-size: 105%;
+	background-repeat: no-repeat;
+	background-position-y:-270px;
+}
+.head-image-content h2{
+	font-family: garamond;
+	font-size:40px;
+	left: 80px;
+	width:19%;
+	position: relative;
+	top:75px;
+	border-bottom: 1px dotted white;
+	color: white;
+}
+.after-image{
+	background-color: #34495E;
+}
+.after-image ul{
+	padding:0px;
+	padding-top:15px;
+}
+.after-image ul li{
+	display:inline-block;
+	padding:0px 10px;
+}
+.after-image ul li a{
+	font-size: 19px;
+	color: white;
+}
+.after-image a:hover{
+	text-decoration: none;
+}
+.about-content h2{
+	color: #aa0505;
+	margin:35px 0px 15px;
+}
+.about-content p{
+	text-align: justify;
+	line-height:30px;
+}
+.about-content img{
+	width:250px;
+	height:500px;
+}
+.about-boxes-image{
+	width:100%;
+	height:200px;
+}
+.image-1{
+	background-image: url(assets/images/about/mission.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.image-2{
+	background-image: url(assets/images/about/vision.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.image-3{
+	background-image: url(assets/images/about/core-values.jpeg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.about-boxes-image-content{
+	background-color: rgba(0,0,0,0.7);
+	width:100%;
+	height:100%;
+}
+.about-boxes-image-content h3{
+	position: relative;
+	top:80px;
+	color: white;
+	font-size: 40px;
+}
+.about-box{
+	margin-bottom:40px;
+}
+.about-box h4{
+	text-align: center;
+	font-size:26px;
+	color: #aa0505;
+	margin-top:10px;
+}
+.about-box p{
+	text-align: center;
+	line-height:25px;
+	font-size:17px;
+}
+.why-life{
+	background-image:url(assets/images/about/bg.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:auto;
+	color: white;
+	text-align: center;
+	font-weight:500;
+}
+.why-life h2{
+	font-size:50px;
+	margin-bottom:20px;
+	padding-top:15px;
+}
+.why-life span{
+	font-size:50px;
+}
+.why-life p{
+	font-size:22px;
+}
+
+.client{
+	padding-bottom:40px;
+}
+.client h2{
+	text-align: center;
+	font-size: 30px;
+	margin:20px 0px 30px;
+	padding-top:20px;
+	font-family: garamond;
+}
+.client-box{
+	background-color:#f8f9fa;
+	margin-left:0px;
+	padding: 20px 0px;
+}
+.client-box img{
+	width:140px;
+	height:140px;
+	border-radius:50%;
+}
+.client-box p{
+	font-size:15px;
+	font-weight:500;
+	text-align: justify;
+	line-height:23px;
+}
+.about-address img{
+	width:100px;
+	height:100px;
+	position: relative;
+	margin-bottom:30px;
+}
+.about-address h2{
+	font-size:40px;
+	text-align: center;
+}
+.about-address-box{
+	background-color: black;
+	color: white;
+	margin-bottom:30px;
+	padding:20px 0px;
+}
+.about-address-box p{
+	line-height:29px;
+}
+.about-address-box h3{
+	text-align: center;
+	margin:8px 0px 20px;
+}
